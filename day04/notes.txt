@@ -1,0 +1,28 @@
+XOR of first two bytes for each key
+byr 27
+iyr 16
+eyr 28
+hgt 15
+hcl 11
+ecl 06
+pid 25
+cid 10
+
+List of assumptions made:
+- all keys are 3 chars
+- the xor or the first two bytes of the key are unique
+- no other keys will appear besides the ones in the input
+- no input line is more than 98 chars
+- Hash of the eye color is sum of first and last chars
+
+amb 195
+blu 215
+brn 208
+gry 224
+grn 213
+hzl 212
+oth 215
+
+...and this is sufficient (for my input)
+
+This might actually be shorter if I just rolled my own strcmp.
