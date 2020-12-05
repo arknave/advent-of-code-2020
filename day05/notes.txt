@@ -1,0 +1,8 @@
+This 5 was inspired by the painting, I Saw the Figure 5 in Gold.
+
+https://en.wikipedia.org/wiki/I_Saw_the_Figure_5_in_Gold
+
+Part 1:
+```c
+for(x=0,k=b;*k;x=2*x|!(*k&4),a=a>x?a:x,++k);
+```
