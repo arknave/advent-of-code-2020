@@ -10,15 +10,15 @@ int h(int v){if(*x[v]<0)return
 0;                         int
 g=1                       ;for
 (*x                        [v]
-=-1;   b[v]--;)g+=h(      z[v]
-[b[v] ]);return g;}       int 
+=-1;   b[v]--;)g+=h(       z[v
+][b[  v]]);return g;}      int
 f(int v){int g=1,i=0      ;for
 (;x[v][i];++i)g+=x[      v][i]
 *f(y[v][i]);return      g;}int
 main(int g,char**      v){for(
 ;gets(b);++n)for      (sscanf(
-b,"%s%s%*s%*s"       "%n",c[n]
-[0],c[n][1],&p      ),m=0;b[p]
+b,"%s%s%*s%*s"       "%n",*c[n
+],c[n][1],&p        ),m=0;b[p]
 ;++m,p+=1*q)       sscanf(b+p,
 "%0d%s%s%*s"      "%n",x[n]+m,
 *d[n][m],d[       n][m][1],&q)
@@ -30,6 +30,6 @@ q,*w=0*77;      strcmp(c[*w][0
 w][1],d[p       ][q][1]);++*w)
 ;z[*w][b[       *w]++]=p;}}for
 (p=77-77;       strcmp("shiny"
-,c[p][0]        )|strcmp(c[p][
+,c[p][0])        |strcmp(c[p][
 1],"gold"        );++p);printf
 ("%d\n",(--g?f(p):h(p))-7+6);}
