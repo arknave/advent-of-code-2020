@@ -113,3 +113,14 @@ Full C comments
 It's best to re-arrange the code so the long tokens are at the beginning and
 ends. Unavoidable long tokens are usually format strings, input parsing
 functions like `scanf` and `gets`, and `printf`.
+
+# Megathread Comments
+
+- [Day 1](https://www.reddit.com/r/adventofcode/comments/k4e4lm/2020_day_1_solutions/geash89)
+- [Day 2](https://www.reddit.com/r/adventofcode/comments/k52psu/2020_day_02_solutions/gecftlc)
+- [Day 3](https://www.reddit.com/r/adventofcode/comments/k5qsrk/2020_day_03_solutions/gehy1od)
+- [Day 4](https://www.reddit.com/r/adventofcode/comments/k6e8sw/2020_day_04_solutions/gelx4er)
+- [Day 5](https://www.reddit.com/r/adventofcode/comments/k71h6r/2020_day_05_solutions/geq8cj8)
+- [Day 6](https://www.reddit.com/r/adventofcode/comments/k7ndux/2020_day_06_solutions/gesc8cy)
+- [Day 7](https://www.reddit.com/r/adventofcode/comments/k8a31f/2020_day_07_solutions/gex8luw)
+- [Day 8](https://www.reddit.com/r/adventofcode/comments/k8xw8h/2020_day_08_solutions/gf15x3p)
