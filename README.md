@@ -20,11 +20,11 @@ Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 ```
 
-and compiled with `-Wall -Werror`. In an effort to avoid the 5-character
-`stdin` token or format strings, I sometimes call `gets`, which is deprecated
-in C99, removed in later editions of the C standard, and horribly unsafe.
-Interestingly on OSX, using `gets` prints a runtime warning, but no compile
-time warnings.
+and compiled with `-Wall` (but not `-Werror`). In an effort to avoid the
+5-character `stdin` token or format strings, I sometimes call `gets`, which is
+deprecated in C99, removed in later editions of the C standard, and horribly
+unsafe. Interestingly on OSX, using `gets` prints a runtime warning, but no
+compile time warnings.
 
 To compile a solution:
 ```
