@@ -10,6 +10,7 @@ def main():
     fin = open("day09.in", "r")
     xs = [int(line.strip()) for line in fin.readlines() if line.strip()]
 
+    # NOTE: Part 1 is incorrect! This checks every possible sum, not sums of the past 25 values!
     sums = set()
     n = len(xs)
     for i, x in enumerate(xs):
@@ -24,6 +25,7 @@ def main():
         s = 0
         for j in range(i, n):
             s += xs[j]
+            # Insert your own answer to part 1 here
             if s == 1930745883:
                 a = xs[i:j+1]
                 print("part 2", a, sum(a), min(a) + max(a))
