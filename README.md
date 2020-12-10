@@ -56,7 +56,7 @@ I might break some of these "rules" as the days get harder.
 
 This isn't code golf: the goal is to use as many short tokens as possible, even
 if you use a few bytes. Longer tokens are exponentially harder to work with
-than short tokens. Here are some tricks I've found that can save some tokens
+than short tokens. Here are some tricks I've found that can save some tokens:
 
 String concatenation in C just works if you surround both parts with quotes,
 with no operator in between. This adds several characters though, so try and avoid it.
@@ -107,7 +107,7 @@ int x = *&y;
 int x = !!x;
 
 /* ADD 4+ CHAR */
-Full C comments
+/**/
 ```
 
 It's best to re-arrange the code so the long tokens are at the beginning and
@@ -124,3 +124,4 @@ functions like `scanf` and `gets`, and `printf`.
 - [Day 6](https://www.reddit.com/r/adventofcode/comments/k7ndux/2020_day_06_solutions/gesc8cy)
 - [Day 7](https://www.reddit.com/r/adventofcode/comments/k8a31f/2020_day_07_solutions/gex8luw)
 - [Day 8](https://www.reddit.com/r/adventofcode/comments/k8xw8h/2020_day_08_solutions/gf15x3p)
+- [Day 9](https://www.reddit.com/r/adventofcode/comments/k9lfwj/2020_day_09_solutions/gf59qvb)
