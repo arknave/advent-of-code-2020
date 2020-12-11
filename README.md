@@ -125,3 +125,4 @@ functions like `scanf` and `gets`, and `printf`.
 - [Day 7](https://www.reddit.com/r/adventofcode/comments/k8a31f/2020_day_07_solutions/gex8luw)
 - [Day 8](https://www.reddit.com/r/adventofcode/comments/k8xw8h/2020_day_08_solutions/gf15x3p)
 - [Day 9](https://www.reddit.com/r/adventofcode/comments/k9lfwj/2020_day_09_solutions/gf59qvb)
+- [Day a](https://www.reddit.com/r/adventofcode/comments/ka8z8x/2020_day_10_solutions/gf9adw7)
