@@ -55,4 +55,4 @@ def part2():
     print(sum(m.values()))
 
 
-main()
+part2()
