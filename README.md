@@ -126,3 +126,8 @@ functions like `scanf` and `gets`, and `printf`.
 - [Day 8](https://www.reddit.com/r/adventofcode/comments/k8xw8h/2020_day_08_solutions/gf15x3p)
 - [Day 9](https://www.reddit.com/r/adventofcode/comments/k9lfwj/2020_day_09_solutions/gf59qvb)
 - [Day a](https://www.reddit.com/r/adventofcode/comments/ka8z8x/2020_day_10_solutions/gf9adw7)
+- [Day b](https://www.reddit.com/r/adventofcode/comments/kaw6oz/2020_day_11_solutions/gfddfic)
+- [Day c](https://www.reddit.com/r/adventofcode/comments/kbj5me/2020_day_12_solutions/gfhy27d)
+- [Day d](https://www.reddit.com/r/adventofcode/comments/kc4njx/2020_day_13_solutions/gfnrzfr)
+- [Day e](https://www.reddit.com/r/adventofcode/comments/kcr1ct/2020_day_14_solutions/gfsbmlg)
+- [Day f](https://www.reddit.com/r/adventofcode/comments/kdf85p/2020_day_15_solutions/gfwbyda)
