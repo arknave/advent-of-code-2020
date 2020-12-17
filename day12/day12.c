@@ -15,6 +15,6 @@ n,y+=k*m:(*b=s[ f]);v=k*d[*b//
 76?(k=4-k            ):k,k&1?n
 ^=m,m^=n,            n^=m:1,k&
 2?n=-n:2,            k&&k<3?m=
--m:3);}  /* also my */ printf(
-"%d\n" /* birthday :)*/ ,abs(x
+-m:3);}                printf(
+"%d\n"                  ,abs(x
 )+abs(                   y));}
