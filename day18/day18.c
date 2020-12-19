@@ -11,7 +11,7 @@ d(){{    long a=7<=*p&&*p<=16?
 *p-7:    (++p,+x());++p;return
 +a;}}    long e    (){    long
 a=d();for(;*p==2    ;    a+=d(
-))++p;return a;/*       */}int
+))++p;return ((a)       );}int
 main(int c,char**g     ){for(f
 =--c>0;q=gets(b);       *p=0,p
 =b,z+=x())for(p=    b    ;*q;q

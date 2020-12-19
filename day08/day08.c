@@ -6,10 +6,10 @@
 int x[888],e,i,g,h,t
 ,n;char b[888][9],s[
 888];int main(int c,
-char**      v){for(;
+char**v      ){for(;
 gets(          b[n])
-;x[     n]=     atoi
-(b    [n]+4),    ++n
+;x[   n+!!0]=   atoi
+(b    [n]+8/2),  ++n
 );   for(i=-1;!  t&&
 i<    n;e>=n?t   =g:
 !~i    ?h=g:8   ,++i
