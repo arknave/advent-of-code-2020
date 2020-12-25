@@ -5,9 +5,12 @@
 The python solutions are my attempts to place on the leaderboard. Usually I
 butcher day 1 when solving day 2. Sometimes I restore / tidy the code before
 pushing to GitHub. Most of the time I won't. There's many better written python
-solutions on the internet.
+solutions on the internet. With these, I finished twelfth on the global
+leaderboard!
 
 ## C
+
+View these on my website: [http://arnavsastry.com/c\_art/](http://arnavsastry.com/c_art/).
 
 The C solutions are compiled with gcc on OSX:
 
@@ -74,8 +77,20 @@ for(;<cond>;){
 ```
 
 You can break up longer integer constants using math, but this will add more characters
-```
+```c
 assert(2020 == (99+2)*20)
+```
+
+Ternary statements are shorter than if statements, even if you don't have an else block.
+```c
+if (x) {
+    y = z;
+}
+```
+is equivalent to
+
+```c
+x?y=z:0;
 ```
 
 Use integer literals instead of character literals. It makes the code less
