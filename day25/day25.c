@@ -1,6 +1,5 @@
 #include   <stdio.h>
 
-// AOC 2020 DAY 25//
         //
        long
       x,y,M=
@@ -17,3 +16,5 @@ a;y=y*y%M,a/=2)a&1?r
        ("%ld"
        "\n",r
        );25;}
+
+// AOC 2020 DAY 25//
