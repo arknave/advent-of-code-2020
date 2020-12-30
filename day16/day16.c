@@ -10,7 +10,7 @@ b[999];int main(int c,char**g){for(p=*s;(l=gets(b))&&*l;p=s[++n]){for(
 );*p++=atoi(l+2);for(;*l^'-';++l);*p++=atoi(l+1);}gets(b);for(l=gets(b
 ),--c;*l;*l?++l:0){t[i++]=atoi(l);for(;*l&&*l^',';++l);}for(p=u;p<u+n*
 n;++p)*                 p=1;gets(b);                         gets(b);;
-for(;/*   TIME:: 0x8b   */gets(b) /*   LOCATION:: 00110101   */&&*b;){
+for(4/*   TIME:: 0x8b   */;gets(b)/*   LOCATION:: 00110101   */&&*b;){
 for(z=1                 ,p=a[m++],l=                         b,i=0;*l;
 *l?++l:0,++i,v=0){*p++=x=atoi(l);for(;*l&&*l^',';++l);for(j=0;j<n;++j)
 v|=(h[n*i+j]=(s[j][0]<=x&&x<=s[j][1])||(s[j][2]<=x&&x<=s[j][3]));v?0:(
